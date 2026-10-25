@@ -1,12 +1,12 @@
 # 👋 Hi, I'm Manoj Kumar Chintaparti
 
-### Senior Backend Engineer | Python | FastAPI | Django | Kafka | GenAI | AI/ML
+### Senior Backend/Fullstack Engineer | Python | FastAPI | Django | Kafka | GenAI | AI/ML
 
 Welcome to my personal portfolio repository.
 
 This repository hosts my GitHub Pages portfolio website, where I showcase my professional experience, technical skills, certifications, AI projects, and backend engineering work.
 
-🌐 **Portfolio Website:** `https://manoj543.github.io/manoj-portfolio/`
+🌐 **Portfolio Website:** `https://manoj543.github.io/`
 
 ---
 
